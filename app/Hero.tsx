@@ -44,23 +44,23 @@ const Hero = () => {
                   transition={{duration: 0.6, delay: 0.1}}
               >
             <div className='flex items-center gap-2 text-xs text-blue-400 sm:bg-gray-800  w-62 p-2 rounded-full sm:justify-center'>
-                <div className='rounded-full w-2 h-2 bg-blue-300 text-sm animate-pulse'/> AVAILABLE FOR NEW PROJECTS
+                <div className='rounded-full w-2 h-2 bg-blue-300 text-lg animate-pulse'/> AVAILABLE FOR NEW PROJECTS
             </div>
             <h1  className='hero-text-2'>Emmanuel <span className='primary'>Aka</span></h1>
 
-            <div className='text-sm sm:text-xl text-blue-200 hidden sm:block'>Full-Stack Developer | UI/UX Designer | Data Analyst</div>
-            <div className='text-3xl sm:hidden px-2 '>
+            <div className='text-sm sm:text-2xl text-blue-200 hidden sm:block'>Full-Stack Developer | UI/UX Designer | Data Analyst</div>
+            <div className='text-2xl sm:hidden px-2 '>
                 Full-Stack Developer <br />
                 <span className='primary'>UI/UX Designer</span>
             </div>
-            <div className='text-wrap text-xs mt-4 flex flex-wrap hero-text text-gray-400 sm:text-white '>Creating digital experience through the lense of a mathematical architect and the soul of a publisher. Specializing in high performance web applications and data-driven visual storytelling.</div>
+            <div className='text-wrap sm:text-lg text-sm mt-4 flex flex-wrap hero-text text-gray-400 sm:text-white '>Creating digital experience through the lense of a mathematical architect and the soul of a publisher. Specializing in high performance web applications and data-driven visual storytelling.</div>
 
                   <div className='mt-6 flex hero-button gap-4'>
                       <a href='/emmanuelAka-cv.pdf' className='bgColor p-2 flex items-center justify-center text-black rounded-md text-xs'>Download CV</a>
                       <a href='#projects' className='hero-button-2'>View Projects</a>
                   </div>
 
-               <div className='flex flex-col'>
+               <div className='flex flex-col mt-4'>
             <div className='hidden sm:flex flex-wrap flex-row gap-2'>
                    <div className='hero-cards'>
                        <Icon icon='map-pin' className='w-6 h-6 primary'/>

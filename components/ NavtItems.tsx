@@ -1,6 +1,5 @@
 'use client'
 
-import React from 'react'
 import {NAV_ITEMS} from "@/lib/constants";
 import Link from "next/link";
 import {useActiveSection} from "@/components/IntersectionObserver";
@@ -10,7 +9,7 @@ const NavtItems = () => {
     const activeId = useActiveSection(NAV_ITEMS.map(item => item.href.replace("#", "")))
 
     return (
-        <ul className='flex flex-col sm:flex-row p-2 sm:gap-6 gap-2 font-normal text-xs text-blue-100'>
+        <ul className='flex flex-col sm:flex-row p-2 sm:gap-6 gap-2 font-normal text-lg text-blue-100'>
             {NAV_ITEMS.map(({href, label}) => {
              const id = href.replace("#", "");
              const isActive = activeId === id;

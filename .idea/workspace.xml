@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ef1fa2b-d287-439f-b00d-8e9e02e4b879" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/projects/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/ListedProjects.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/Hero.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Experiences.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Experiences.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ NavtItems.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ NavtItems.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/Hero.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/ListedProjects.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ListedProjects.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +112,16 @@
       <workItem from="1775200690661" duration="38609000" />
       <workItem from="1775255689194" duration="45678000" />
       <workItem from="1775401600514" duration="3915000" />
-      <workItem from="1775468646171" duration="7168000" />
+      <workItem from="1775468646171" duration="15221000" />
+      <workItem from="1775828524887" duration="626000" />
+      <workItem from="1776182055419" duration="4898000" />
+      <workItem from="1776350891061" duration="7000" />
+      <workItem from="1776445946192" duration="130000" />
+      <workItem from="1776452047278" duration="558000" />
+      <workItem from="1776499001462" duration="3470000" />
+      <workItem from="1776705186363" duration="2007000" />
+      <workItem from="1778358332530" duration="1136000" />
+      <workItem from="1778693267097" duration="1514000" />
     </task>
     <servers />
   </component>
