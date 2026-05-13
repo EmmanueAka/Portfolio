@@ -18,7 +18,7 @@ const SkillsCard = ({title, description, icon}: SkillCardProps) => {
         <div className='text-sm'>{title}</div>
         <ul className='space-y-1 flex flex-wrap gap-1 mt-2'>
         {items.map((desc, i) => (
-          <li key={i} className='text-[10px] text-gray-400 bg-gray-700 rounded px-1  flex text-wrap '>
+          <li key={i} className='text-sm text-gray-400 bg-gray-700 rounded px-2  flex text-wrap '>
             {desc}
           </li>
         ))}

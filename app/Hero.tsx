@@ -57,7 +57,7 @@ const Hero = () => {
 
                   <div className='mt-6 flex hero-button gap-4'>
                       <a href='/emmanuelAka-cv.pdf' className='bgColor p-2 flex items-center justify-center text-black rounded-md text-xs'>Download CV</a>
-                      <a href='#projects' className='hero-button-2'>View Projects</a>
+                      <a href='/projects' className='hero-button-2'>View Projects</a>
                   </div>
 
                <div className='flex flex-col mt-4'>
@@ -105,8 +105,8 @@ const Hero = () => {
         <section className='sm:w-[50%]' ref={ref}>
             <div
                 className='w-full items-center justify-end  relative hidden sm:flex'>
-                <div className='sm:w-75 sm:h-80 md:w-100 md:h-120 bg-radial from-gray-600 to-[#0F172A] drop-shadow-xl shadow-gray-900 rounded-lg relative flex justify-center items-center overflow-hidden'>
-                    <Image src={corporate} alt='hero-image' className='w-80 h-120 hidden sm:block'/>
+                <div className='w-[450px] h-[500px] bg-radial from-gray-600 to-[#0F172A] drop-shadow-xl shadow-gray-900 rounded-lg relative flex justify-center items-center overflow-hidden'>
+                    <Image src={corporate} alt='hero-image' className='w-full h-full object-cover hidden sm:block'/>
 
                 </div>
                     <motion.div

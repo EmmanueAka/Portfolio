@@ -8,9 +8,9 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/Hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/Hero.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ NavtItems.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ NavtItems.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/ListedProjects.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/ListedProjects.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Projects.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Projects.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Skills.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Skills.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/SkillsCard.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/SkillsCard.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +121,7 @@
       <workItem from="1776499001462" duration="3470000" />
       <workItem from="1776705186363" duration="2007000" />
       <workItem from="1778358332530" duration="1136000" />
-      <workItem from="1778693267097" duration="1514000" />
+      <workItem from="1778693267097" duration="3293000" />
     </task>
     <servers />
   </component>

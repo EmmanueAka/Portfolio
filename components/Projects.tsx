@@ -9,7 +9,7 @@ const Projects = () => {
     return (
         <div className='mb-12 px-6 ' id="projects">
             <div className="flex items-center justify-center mb-6">
-                <p className="text-[10px] primary tracking-widest">SELECTED WORKS</p>
+                <p className="text-lg primary tracking-widest">SELECTED WORKS</p>
             </div>
             <div className='items-center justify-center mb-6 w-full h-auto gap-4 project-grid'>
                 {WORKS_ITEMS.map((work, i) => {

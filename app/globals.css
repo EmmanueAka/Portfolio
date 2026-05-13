@@ -259,8 +259,8 @@
   @apply text-[10px] justify-center sm:justify-start w-full ;
 }
 
-.skilly{
-  @apply text-[10px] text-gray-300 sm:w-100 font-light sm:text-right text-center w-full px-2 sm:px-2 mt-2 sm:mt-0;
+.skilly {
+  @apply sm:text-lg text-sm text-gray-300 sm:w-100 font-light sm:text-right text-center w-full px-2 sm:px-2 mt-2 sm:mt-0;
 }
 
 .hero-button{
@@ -271,8 +271,8 @@
   @apply leading-6 text-center sm:text-start
 }
 
-.hero-cards{
-  @apply bg-gray-800 flex-wrap w-auto cursor-pointer h-12 flex-row rounded-md items-center flex gap-2 p-2 transform transition ease-in-out duration-500 hover:scale-110 z-20 hover:translate-y-1
+.hero-cards {
+  @apply bg-gray-800 flex-wrap w-auto cursor-pointer h-16 flex-row rounded-md items-center flex gap-2 p-4 transform transition ease-in-out duration-500 hover:scale-110 z-20 hover:translate-y-1
 }
 
 .hero-card-text{
@@ -283,7 +283,7 @@
   @apply sm:text-[120px] text-[50px] font-bold hidden sm:block
 }
 .hero-button-2 {
-  @apply bg-transparent border border-[#00D1FF] mt-4 p-2 flex items-center justify-center rounded-md text-xs text-[#00D1FF]
+  @apply bg-transparent border border-[#00D1FF] mt-4 p-4 flex items-center justify-center rounded-md text-xs text-[#00D1FF]
 }
 
 .skills-div {
@@ -291,11 +291,11 @@
 }
 
 .skills-card{
-  @apply flex flex-row gap-4 flex-wrap text-xs items-center justify-center
+  @apply flex flex-row gap-4 flex-wrap sm:text-lg text-sm items-center justify-center
 }
 
 .skills-card-card{
-  @apply rounded-lg bg-gray-800 w-80 sm:w-62 h-38 px-4 mt-4
+  @apply rounded-lg flex flex-col justify-start bg-gray-800 w-80 sm:w-62 h-38 px-4 mt-4
 }
 
 .project{
@@ -314,8 +314,8 @@
   @apply z-10 right-5 sm:p-4 absolute bottom-30 sm:left-10 left-0
 }
 
-.project-cap{
-  @apply px-2 py-1 bg-gray-700 text-gray-200 rounded-sm md:text-xs text-[10px] font-bold
+.project-cap {
+  @apply px-2 py-1 bg-gray-700 text-gray-200 rounded-sm sm:text-lg text-sm font-bold
 }
 
 .foundation{
