@@ -44,7 +44,7 @@ const Experiences = () => {
              id='experiences'
         >
             <div className='px-6 w-full'>
-                <p className='primary text-xs tracking-widest'>PROFESSIONAL JOURNEY</p>
+                <p className='primary text-lg tracking-widest'>PROFESSIONAL JOURNEY</p>
                 <div className='relative flex flex-col items-start px-1 mt-6 '>
                     <motion.div
                         className='gradient-line w-3 absolute top-0 left-4 h-full rounded'
@@ -70,7 +70,7 @@ const Experiences = () => {
                                     viewport={{once: false, amount: 0.3}}
                                     className='timeline-card flex justify-between items-start text-white text-xs flex-1 w-full p-4 rounded-lg'>
                                     <div className='flex flex-col gap-4 ' style={{width:'80%'}}>
-                                        <p className='text-white text-[12px] px-4 sm:text-[18px]' style={{color:colors[index]}}>{item.title}</p>
+                                        <p className='text-white text-[12px] px-4 sm:text-lg' style={{color:colors[index]}}>{item.title}</p>
                                         <p className='text-white text-[10px] px-4 sm:text-[18px]'>{item.sub}</p>
                                         <ul className='experience-text'>
                                             {item.description.split(',').map((point, i) => (
@@ -80,7 +80,7 @@ const Experiences = () => {
                                             ))}
                                         </ul>
                                     </div>
-                                    <div className='primary '>{item.year}</div>
+                                    <div className='primary text-lg '>{item.year}</div>
                                 </motion.div>
                             </div>
                         )})}

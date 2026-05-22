@@ -351,7 +351,7 @@
 
 
 .experience-text {
-  @apply list-disc space-y-1 px-6 text-[10px] sm:text-xs
+  @apply list-disc space-y-1 px-6 text-sm sm:text-lg
 }
 
 .project-preview {

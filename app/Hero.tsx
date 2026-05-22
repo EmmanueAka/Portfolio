@@ -56,7 +56,7 @@ const Hero = () => {
             <div className='text-wrap sm:text-lg text-sm mt-4 flex flex-wrap hero-text text-gray-400 sm:text-white '>Creating digital experience through the lense of a mathematical architect and the soul of a publisher. Specializing in high performance web applications and data-driven visual storytelling.</div>
 
                   <div className='mt-6 flex hero-button gap-4'>
-                      <a href='/emmanuelAka-cv.pdf' className='bgColor p-2 flex items-center justify-center text-black rounded-md text-xs'>Download CV</a>
+                      <a href='/EMMANUELAKA-CV.pdf' className='bgColor p-2 flex items-center justify-center text-black rounded-md text-xs'>Download CV</a>
                       <a href='/projects' className='hero-button-2'>View Projects</a>
                   </div>
 
