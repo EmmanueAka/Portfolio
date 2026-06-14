@@ -39,6 +39,24 @@ const ListedProjects = () => {
                 </div>
             </div>
 
+            <div className='px-4 mt-4 h-[400px] w-[350px] flex-wrap flex bg-gray-800 rounded-xl'>
+                <div className='bg-gray-800 p-1 w-full mb-2 rounded-md'><h3>Mini E-Commerce Site</h3></div>
+                <iframe src='https://youkay-fashion.vercel.app/' width="350" height="200" className='rounded-md border-4 border-gray-600  '></iframe>
+                <div className='text-[10px] font-normal'>Designed with NextJs, Framer-Motion, Tailwindcss, for buying of wears and accessories</div>
+                <div>
+                    <a href='https://youkay-fashion.vercel.app/' className='primary text-[10px] bg-gray-700 rounded-md h-12 p-2'>Visit Site</a>
+                </div>
+            </div>
+
+            <div className='px-4 mt-4 h-[400px] w-[350px] flex-wrap flex bg-gray-800 rounded-xl'>
+                <div className='bg-gray-800 p-1 w-full mb-2 rounded-md'><h3>Security Architecture</h3></div>
+                <iframe src='https://dogotracker.vercel.app' width="350" height="200" className='rounded-md border-4 border-gray-600  '></iframe>
+                <div className='text-[10px] font-normal'>Designed with NextJs, Framer-Motion, Tailwindcss, Node, Better-Auth, MongoDB, for checking breaches, Phone, Email and Socials</div>
+                <div>
+                    <a href='https://dogotracker.vercel.app' className='primary text-[10px] bg-gray-700 rounded-md h-12 p-2'>Visit Site</a>
+                </div>
+            </div>
+
         </div>
     )
 

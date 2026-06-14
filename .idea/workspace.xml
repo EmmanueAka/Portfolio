@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5ef1fa2b-d287-439f-b00d-8e9e02e4b879" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Experiences.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Experiences.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
     &quot;js.debugger.nextJs.config.created.client&quot;: &quot;true&quot;,
     &quot;js.debugger.nextJs.config.created.server&quot;: &quot;true&quot;,
     &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Rhymes/Desktop/myportfolio/assets&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Rhymes/Desktop/myportfolio/public&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -63,6 +61,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Rhymes\Desktop\myportfolio\public" />
       <recent name="C:\Users\Rhymes\Desktop\myportfolio\assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -119,6 +118,7 @@
       <workItem from="1776705186363" duration="2007000" />
       <workItem from="1778358332530" duration="1136000" />
       <workItem from="1778693267097" duration="6018000" />
+      <workItem from="1779436418700" duration="1599000" />
     </task>
     <servers />
   </component>
